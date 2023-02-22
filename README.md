@@ -1,6 +1,7 @@
 Performance testing for https://magento.softwaretestingboard.com/ using k6 and faker.
 
 Install: npm install
+
 Build and run: npm run test
 
 The test flow:
